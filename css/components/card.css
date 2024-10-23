@@ -1,0 +1,27 @@
+.card {
+	padding:20px;
+	display: flex;
+	background-color: #CBD2A4;
+	align-items: center; 
+	justify-content: space-between;
+	box-shadow: Opx 10px 30px rgba(0,0,0,0.2); 
+	border-radius: 6px;|
+}
+
+.card img{
+	padding:20px;
+	display: flex;
+	align-items: center; 
+	justify-content: space-between;
+	box-shadow: Opx 10px 30px rgba(0,0,0,0.2); 
+	border-radius: 6px;|
+}
+
+.card h3 {
+	padding:20px;
+	display: flex;
+	align-items: center; 
+	justify-content: space-between;
+	box-shadow: Opx 10px 30px rgba(0,0,0,0.2); 
+	border-radius: 6px;|
+}
